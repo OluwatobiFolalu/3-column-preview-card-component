@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [https://oluwatobifolalu.github.io/3-column-preview-card-component/](https://your-live-site-url.com)
 
 ## My process
 Uhmm, I don't know how to describe the process, but the highlight of the task was the grid layout I used to create the boxes and my media query for the responsiveness.
@@ -55,3 +55,4 @@ I'll like to continue refining my skills and knowldge using the grid layout, fle
 - Frontend Mentor - [@Folalu!](https://www.frontendmentor.io/profile/Folalu!)
 - Twitter - [@McphilzT](https://www.twitter.com/McphilzT)
 
+https://github.com/OluwatobiFolalu/3-column-preview-card-component.git
